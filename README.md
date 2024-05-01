@@ -22,7 +22,7 @@ The dataset is not included in this repository is it is too large and must be do
 
 ## Usage
 
-Users can explore the dataset using the EDA and Data Cleaning jupyter notebook in the code folder. Users can run and explore the results of the pre-trained CNN models on teh dataset; ResNet, DenseNet, and ResNext in the code folder as well. 
+Users can explore the dataset using the EDA and Data Cleaning jupyter notebook in the code folder. Users can run and explore the results of the initial pre-trained CNN models on the dataset; ResNet, DenseNet, and ResNext in the code folder and the ResNet and DenseNet models with stratified k-fold and freezing layers as well. 
 
 ## Contributions
 
